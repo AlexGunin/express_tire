@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/express_tire/static/css/main.fdfa8ea6.css",
+    "main.js": "/express_tire/static/js/main.b02b5b61.js",
+    "index.html": "/express_tire/index.html",
+    "main.fdfa8ea6.css.map": "/express_tire/static/css/main.fdfa8ea6.css.map",
+    "main.b02b5b61.js.map": "/express_tire/static/js/main.b02b5b61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdfa8ea6.css",
+    "static/js/main.b02b5b61.js"
+  ]
+}
