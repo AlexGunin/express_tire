@@ -1,0 +1,35 @@
+.point-item {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 14px;
+  background: #3a3c3e;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+
+  &_active {
+    background-color: #404749;
+  }
+
+  &__address {
+    font-size: 18px;
+    color: #959b9f;
+    margin-bottom: 15px;
+  }
+
+  &__budget-wrap {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  &__budget {
+    background: #282b2d;
+    font-size: 12px;
+    line-height: 18px;
+    color: #969c9f;
+    font-family: "Arial";
+    text-align: center;
+    padding: 3px 10px;
+    border-radius: 2px;
+  }
+}
